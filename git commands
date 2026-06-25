@@ -1,0 +1,14 @@
+Configure your identity:
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+Commit your changes: git commit -m "Java and Selenium codes"
+clone the project from remote(git): git clone
+check status of code: git status
+add files: git add <file name>
+add all files: git add .
+pull latest changes from main branch: git pull origin main
+push you code to main branch: git push origin <branch name>
+then raise a PR in github
+switch to branch: git checkout branchname
+to fetch all branch list: git fetch --all
