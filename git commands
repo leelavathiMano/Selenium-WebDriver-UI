@@ -12,3 +12,6 @@ push you code to main branch: git push origin <branch name>
 then raise a PR in github
 switch to branch: git checkout branchname
 to fetch all branch list: git fetch --all
+Check the current branch: git branch
+Add or fix the remote: git remote add origin <your-remote-url>
+git remote add origin https://github.com/leelavathiMano/Selenium-WebDriver-UI.git
