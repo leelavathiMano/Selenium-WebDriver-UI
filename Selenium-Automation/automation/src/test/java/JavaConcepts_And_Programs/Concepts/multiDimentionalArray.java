@@ -1,4 +1,4 @@
-package JavaConcepts_And_Programs;
+package JavaConcepts_And_Programs.Concepts;
 
 public class multiDimentionalArray {
        // Assisgning the values on the basis of x axis and y axis called multidimentional array like matrix

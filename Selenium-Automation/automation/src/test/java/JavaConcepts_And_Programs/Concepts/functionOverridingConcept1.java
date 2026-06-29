@@ -1,4 +1,4 @@
-package JavaConcepts_And_Programs;
+package JavaConcepts_And_Programs.Concepts;
 
 public class functionOverridingConcept1 {
       // the method from the parents class will be over ridden by the child class is called function oveririding

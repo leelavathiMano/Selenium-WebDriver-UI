@@ -1,4 +1,4 @@
-package JavaConcepts_And_Programs;
+package JavaConcepts_And_Programs.Concepts;
 
 public class exceptionHandling {
  // In a website when popup displays ocassionally ,to handle this we can use this try-catch block
