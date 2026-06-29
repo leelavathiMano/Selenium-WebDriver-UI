@@ -1,4 +1,4 @@
-package JavaConcepts_And_Programs;
+package JavaConcepts_And_Programs.Concepts;
 
 public interface interfaceConcept {
    //interface is almost similar to the class but small diff is class contains body, interface has no body

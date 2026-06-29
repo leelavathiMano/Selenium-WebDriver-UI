@@ -1,4 +1,4 @@
-package JavaConcepts_And_Programs;
+package JavaConcepts_And_Programs.Concepts;
 
 public class IndiaCountry implements interfaceConcept,continentalTraffic {
     public static void main(String args[]) {

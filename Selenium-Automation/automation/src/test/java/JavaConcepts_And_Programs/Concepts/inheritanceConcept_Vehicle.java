@@ -1,4 +1,4 @@
-package JavaConcepts_And_Programs;
+package JavaConcepts_And_Programs.Concepts;
 
 public class inheritanceConcept_Vehicle {
  // inheritance is the important concept in Oops Concept which means inheriting the properties from parent class to child class

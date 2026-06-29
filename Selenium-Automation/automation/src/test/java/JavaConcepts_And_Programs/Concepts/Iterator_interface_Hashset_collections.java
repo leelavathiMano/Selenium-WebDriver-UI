@@ -1,4 +1,4 @@
-package JavaConcepts_And_Programs;
+package JavaConcepts_And_Programs.Concepts;
 
 import java.util.HashSet;
 import java.util.Iterator;

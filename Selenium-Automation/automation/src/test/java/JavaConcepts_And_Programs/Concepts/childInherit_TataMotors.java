@@ -1,4 +1,4 @@
-package JavaConcepts_And_Programs;
+package JavaConcepts_And_Programs.Concepts;
 
 public class childInherit_TataMotors extends inheritanceConcept_Vehicle{
     public static void main(String args[]){

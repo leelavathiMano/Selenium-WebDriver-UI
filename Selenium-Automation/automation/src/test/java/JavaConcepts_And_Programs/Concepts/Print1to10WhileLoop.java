@@ -1,4 +1,4 @@
-package JavaConcepts_And_Programs;
+package JavaConcepts_And_Programs.Concepts;
 
 public class Print1to10WhileLoop {
      public static void main(String args[]){

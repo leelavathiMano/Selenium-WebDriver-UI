@@ -1,4 +1,4 @@
-package JavaConcepts_And_Programs;
+package JavaConcepts_And_Programs.Concepts;
 
 public class staticVaraibles {
      // instance variables-- the variables which are decalred inside the class and outside of menthods or constructors are called instance variables

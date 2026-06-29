@@ -11,7 +11,7 @@ public static void main(String[] args) {
         a.add("mango");
         a.add("apple");
         System.out.println(a);
-        a.removeFirst();
+        //a.removeFirst();
         System.out.println(a);
         System.out.println(a.contains("orange"));
         if(a.contains("orange")){
